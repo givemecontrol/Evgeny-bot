@@ -1,0 +1,22 @@
+{
+  "name": "evgeny-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/givemecontrol/Evgeny-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/givemecontrol/Evgeny-bot/issues"
+  },
+  "homepage": "https://github.com/givemecontrol/Evgeny-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
